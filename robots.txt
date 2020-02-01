@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://quahchaexi.goblinsan.com/sitemap.xml
